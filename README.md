@@ -1,5 +1,4 @@
-<h1 align="center">CODSOFT</h1>
-<h2> Calculator [Task 3] </h2>
+<h2> Calculator </h2>
 
 
 This project is a simple calculator application built using HTML, CSS, and JavaScript. 
