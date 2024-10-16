@@ -61,6 +61,8 @@ class Calculator {
         return;
     }
 
+    console.log(previous);
+
     this.currentOpernad = calculation;
     this.operation = undefined;
     this.previousOpernad = "";
